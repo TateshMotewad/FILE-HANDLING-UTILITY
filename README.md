@@ -145,3 +145,10 @@ Conclusion
 The File Handling Utility Project in Java is an excellent project for understanding the concepts of file management and input/output operations in Java. It provides practical knowledge about handling files and directories effectively. The project is useful for students, beginners, and developers who want to strengthen their Java programming skills through real-world applications.
 
 By implementing this project, developers gain experience in file operations, exception handling, and object-oriented programming concepts. The project also serves as a foundation for building more advanced file management systems in the future.
+
+##OUTPUT
+--------
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fc200f06-a845-465d-8474-cb5d97b16798" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e08c8051-1f0c-4c20-9cd4-2989775cb292" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/04339806-4720-402b-9e8c-8c77bfdc9ec3" />
