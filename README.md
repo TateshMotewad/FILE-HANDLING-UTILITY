@@ -146,6 +146,9 @@ The File Handling Utility Project in Java is an excellent project for understand
 
 By implementing this project, developers gain experience in file operations, exception handling, and object-oriented programming concepts. The project also serves as a foundation for building more advanced file management systems in the future.
 
+
+[CODTECH IT SOLUTIONS TATESH.docx](https://github.com/user-attachments/files/27638624/CODTECH.IT.SOLUTIONS.TATESH.docx)
+
 ##OUTPUT
 --------
 
